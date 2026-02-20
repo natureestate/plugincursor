@@ -1,3 +1,5 @@
+![Banner](./assets/banner.png)
+
 # 🚀 PluginCursor
 
 ![Language](https://img.shields.io/badge/language-Thai%20%7C%20English-blue)
